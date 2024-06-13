@@ -1,0 +1,95 @@
+{
+    "start": {
+        "text": "Ah, another foolish adventurer! What brings you to my lair?",
+        "options": [
+            {
+                "text": "I'm here to stop the pigs from attacking the chickens.",
+                "response": {
+                    "text": "Hah! Good luck with that. The pigs have grown too powerful. But perhaps we can strike a deal..."
+                },
+                "options": [
+                    {
+                        "text": "What kind of deal?",
+                        "response": {
+                            "text": "Bring me the Feather of the Golden Rooster, and I may give you the power to defeat the pigs."
+                        },
+                        "options": [
+                            {
+                                "text": "Where can I find the Feather of the Golden Rooster?",
+                                "response": {
+                                    "text": "The Feather lies in the heart of the Forbidden Forest, guarded by ferocious beasts. Tread carefully."
+                                }
+                            },
+                            {
+                                "text": "I don't trust you, wizard.",
+                                "response": {
+                                    "text": "Trust is for the weak. Return to me when you have the Feather, or face the wrath of the pigs alone."
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "I'll find another way.",
+                        "response": {
+                            "text": "Foolish bravery or sheer stupidity? Either way, you won't last long without my help."
+                        }
+                    }
+                ]
+            },
+            {
+                "text": "Who are you?",
+                "response": {
+                    "text": "I am the Great Wizard Zoltar, master of the dark arts and ruler of these lands. You'd do well to show some respect."
+                },
+                "options": [
+                    {
+                        "text": "Why are you helping the pigs?",
+                        "response": {
+                            "text": "Helping? I merely watch and enjoy the chaos. The pigs are a means to an end, a way to spread my influence."
+                        },
+                        "options": [
+                            {
+                                "text": "I'll put an end to your schemes!",
+                                "response": {
+                                    "text": "Brave words for someone so powerless. Come back when you're ready to make a real choice."
+                                }
+                            },
+                            {
+                                "text": "You're despicable.",
+                                "response": {
+                                    "text": "Despicable, perhaps. But I am also powerful, and power is all that matters."
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "I seek your wisdom, great Zoltar.",
+                        "response": {
+                            "text": "Wisdom? From me? Very well, ask your questions and I may grant you some insight."
+                        }
+                    }
+                ]
+            },
+            {
+                "text": "What do you want, wizard?",
+                "response": {
+                    "text": "I want what every great wizard wants: power, control, and the destruction of my enemies. The pigs are merely pawns in my grand design."
+                },
+                "options": [
+                    {
+                        "text": "I'll stop you and the pigs!",
+                        "response": {
+                            "text": "Many have tried, all have failed. Perhaps you'll be different, but I doubt it."
+                        }
+                    },
+                    {
+                        "text": "Maybe we can work together.",
+                        "response": {
+                            "text": "A tempting offer. Prove your worth and perhaps we can strike a mutually beneficial arrangement."
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
